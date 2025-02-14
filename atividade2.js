@@ -7,7 +7,6 @@ if (valorNulo === null) {
     console.log("valorNulo não é null");
 }
 
-// Verificação de undefined
 if (valorIndefinido === undefined) {
     console.log("valorIndefinido é undefined");
 } else {
